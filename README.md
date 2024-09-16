@@ -7,4 +7,4 @@ This is a script for Tampermonkey where it automatically refreshes the page when
 3. Click the "+" button to create a new script
 4. Paste the script that I've provided
 5. Save (ctrl + s or cmd + s depending on your keybind)
-6. Profit!
+6. Be sure to refresh your YouTube tab if you haven't already. Profit!
