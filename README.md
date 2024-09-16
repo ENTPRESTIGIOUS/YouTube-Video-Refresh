@@ -1,5 +1,5 @@
 # YouTube-Video-Refresh
-This is a script for Tampermonkey where it automatically refreshes the page whenever you access the video. YouTube is sometimes janky and can produce unoptimized video players. Created using ChatGPT.
+This is a script for Tampermonkey where it automatically refreshes the page whenever you access the video. YouTube is sometimes janky and sometimes elements within the video page may not load correctly. This is created to refresh whenever you have to watch a video for an optimal experience! Created using ChatGPT.
 
 ## How to Install
 1. Install Tampermonkey Chrome/Firefox Extension if you haven't already.
